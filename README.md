@@ -17,7 +17,7 @@
 
 ### About
 - Data scientist, Deep Learning Engineer
-- Applied mathematics and informatics, HSE NN (bachelor's)
+- Applied mathematics and informatics, HSE (bachelor's)
 - Hackathons
 
 
